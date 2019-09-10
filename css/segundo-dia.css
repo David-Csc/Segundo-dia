@@ -1,0 +1,14 @@
+.caja2{
+    text-align: center;
+    background-color: silver;
+    color: white;
+}
+.caja2__listado{
+    text-decoration: none;
+    list-style: none;
+}
+.caja2__link{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
